@@ -1,5 +1,5 @@
-# challengealura
-🎉 Amigo Secreto
+#🎉 Amigo Secreto
+
 Esta aplicación te ayuda a realizar un sorteo de "Amigo Secreto" de forma fácil y divertida. 🎁
 
 🚀 Características
